@@ -1,0 +1,10 @@
+.footer {
+    background-color:gold;
+    color:#f407e1;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+   
+  }

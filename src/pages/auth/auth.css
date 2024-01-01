@@ -1,0 +1,45 @@
+.form {
+    background-color: #fff;
+    padding: 10px;
+    box-shadow:0px 2px 12px 6px #eee;
+}
+.form .title-login{
+    color: #f407e1;
+}
+
+.form .btn-primary,
+.form .btn-danger{
+    width: 100%;
+}
+ .link{
+    text-decoration: none;
+    color:  black;
+}
+ .form  {
+    width: 600px;
+    margin: 0 auto;
+ }
+ @media(max-width: 991px){
+    .form  {
+        width: 450px;
+     }  
+ }
+
+ section{
+    justify-content: space-between;
+    align-items: center;
+ }
+ p span{
+    font-size: 20px;
+ }
+ .form .links-control{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+ }
+ img{
+    width: 400px;
+    border: 10px;
+ }
+ 

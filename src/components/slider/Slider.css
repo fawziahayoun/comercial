@@ -1,0 +1,9 @@
+.carousel-item img{
+  height: 700px;
+}
+
+.carousel-item .carousel-control-prev .visually-hidden{
+  color: aqua;
+  background-color: red;
+}
+ 
